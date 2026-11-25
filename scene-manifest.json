@@ -1,1 +1,317 @@
-[]
+[
+  {
+    "id": "scene-0001",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      1
+    ],
+    "status": "reviewed",
+    "description": "Walking home from the grocery store",
+    "asset": "assets/scene-0001.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      6,
+      7,
+      307,
+      309
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0002",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      2
+    ],
+    "status": "reviewed",
+    "description": "Annie asks Jack about lunch",
+    "asset": "assets/scene-0002.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      321,
+      7,
+      621,
+      309
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0003",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      3,
+      4,
+      5
+    ],
+    "status": "reviewed",
+    "description": "Jack stops in surprise",
+    "asset": "assets/scene-0003.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      634,
+      5,
+      931,
+      309
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0004",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      6,
+      7
+    ],
+    "status": "reviewed",
+    "description": "A gazelle at the edge of the woods",
+    "asset": "assets/scene-0004.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      945,
+      7,
+      1247,
+      309
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0005",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "status": "reviewed",
+    "description": "Annie recognizes a sign",
+    "asset": "assets/scene-0005.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      6,
+      322,
+      307,
+      620
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0006",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "status": "reviewed",
+    "description": "Following the gazelle into the woods",
+    "asset": "assets/scene-0006.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      321,
+      322,
+      621,
+      620
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0007",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "status": "reviewed",
+    "description": "Searching for the missing gazelle",
+    "asset": "assets/scene-0007.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      635,
+      322,
+      931,
+      620
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0008",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      13,
+      14
+    ],
+    "status": "reviewed",
+    "description": "Annie points up",
+    "asset": "assets/scene-0008.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      945,
+      322,
+      1247,
+      620
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0009",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      15
+    ],
+    "status": "reviewed",
+    "description": "The magic tree house at noon",
+    "asset": "assets/scene-0009.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      7,
+      633,
+      307,
+      931
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0010",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "status": "reviewed",
+    "description": "An empty tree house window",
+    "asset": "assets/scene-0010.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      321,
+      633,
+      621,
+      931
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0011",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "status": "reviewed",
+    "description": "Climbing the rope ladder",
+    "asset": "assets/scene-0011.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      635,
+      633,
+      931,
+      931
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0012",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      20
+    ],
+    "status": "reviewed",
+    "description": "Books and two ancient scrolls",
+    "asset": "assets/scene-0012.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      946,
+      633,
+      1246,
+      931
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0013",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "status": "reviewed",
+    "description": "Jack takes off his heavy pack",
+    "asset": "assets/scene-0013.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      6,
+      945,
+      307,
+      1246
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0014",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "status": "reviewed",
+    "description": "The children turn toward a soft voice",
+    "asset": "assets/scene-0014.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      322,
+      945,
+      621,
+      1246
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0015",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "status": "reviewed",
+    "description": "Morgan appears in the tree house",
+    "asset": "assets/scene-0015.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      635,
+      945,
+      931,
+      1246
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0016",
+    "chapter": 1,
+    "part_id": "B11_Chapter_01_Part_01",
+    "source_paragraphs": [
+      27
+    ],
+    "status": "reviewed",
+    "description": "Morgan asks about becoming Master Librarians",
+    "asset": "assets/scene-0016.webp",
+    "page": "part-01-01.html",
+    "crop": [
+      946,
+      945,
+      1246,
+      1246
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  }
+]
