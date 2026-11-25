@@ -1826,5 +1826,325 @@
       1250
     ],
     "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0097",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      6,
+      7,
+      8
+    ],
+    "status": "reviewed",
+    "description": "Jack retrieves his backpack",
+    "asset": "assets/scene-0097.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      5,
+      4,
+      309,
+      319
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0098",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      9
+    ],
+    "status": "reviewed",
+    "description": "Running away from the incoming herd",
+    "asset": "assets/scene-0098.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      321,
+      4,
+      621,
+      319
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0099",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      10
+    ],
+    "status": "reviewed",
+    "description": "Wildebeests climb safely onto the bank",
+    "asset": "assets/scene-0099.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "revision": "Single scene regenerated to clarify near-bank landing; no humans across river",
+    "source": "source_images/scene-0099-revision-v1.png",
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0100",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      11,
+      12,
+      13
+    ],
+    "status": "reviewed",
+    "description": "The children need to get clean",
+    "asset": "assets/scene-0100.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      946,
+      2,
+      1249,
+      319
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0101",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "status": "reviewed",
+    "description": "Two spotted hyenas appear",
+    "asset": "assets/scene-0101.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      6,
+      331,
+      309,
+      622
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0102",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "status": "reviewed",
+    "description": "The hyenas laugh",
+    "asset": "assets/scene-0102.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      321,
+      331,
+      621,
+      622
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0103",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      18
+    ],
+    "status": "reviewed",
+    "description": "Jack finds the hyenas in his book",
+    "asset": "assets/scene-0103.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      634,
+      331,
+      933,
+      622
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0104",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "status": "reviewed",
+    "description": "Reading about predators",
+    "asset": "assets/scene-0104.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      946,
+      331,
+      1249,
+      622
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0105",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      21,
+      22
+    ],
+    "status": "reviewed",
+    "description": "Jack explains predator",
+    "asset": "assets/scene-0105.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      5,
+      634,
+      309,
+      934
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0106",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      23,
+      24
+    ],
+    "status": "reviewed",
+    "description": "The two hyenas approach",
+    "asset": "assets/scene-0106.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      321,
+      634,
+      621,
+      934
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0107",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      25,
+      26
+    ],
+    "status": "reviewed",
+    "description": "Annie suggests scaring the hyenas",
+    "asset": "assets/scene-0107.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      634,
+      634,
+      933,
+      934
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0108",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      27,
+      28
+    ],
+    "status": "reviewed",
+    "description": "Jack asks how",
+    "asset": "assets/scene-0108.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      946,
+      634,
+      1250,
+      934
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0109",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      29
+    ],
+    "status": "reviewed",
+    "description": "Annie prepares a monster face",
+    "asset": "assets/scene-0109.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      5,
+      947,
+      309,
+      1250
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0110",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      30,
+      31
+    ],
+    "status": "reviewed",
+    "description": "The children pretend to be monsters",
+    "asset": "assets/scene-0110.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      321,
+      947,
+      621,
+      1250
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0111",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      32,
+      33
+    ],
+    "status": "reviewed",
+    "description": "The hyenas run away",
+    "asset": "assets/scene-0111.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      634,
+      947,
+      933,
+      1250
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0112",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      34,
+      35
+    ],
+    "status": "reviewed",
+    "description": "Running around a bend in the river",
+    "asset": "assets/scene-0112.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      946,
+      947,
+      1248,
+      1249
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
   }
 ]
