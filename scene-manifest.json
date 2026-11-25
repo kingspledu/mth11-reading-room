@@ -2146,5 +2146,330 @@
       1249
     ],
     "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0113",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      36,
+      37
+    ],
+    "status": "reviewed",
+    "description": "The hyena laughter fades",
+    "asset": "assets/scene-0113.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      6,
+      6,
+      309,
+      310
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0114",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      38,
+      39
+    ],
+    "status": "reviewed",
+    "description": "Annie spots a quiet pond",
+    "asset": "assets/scene-0114.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      322,
+      7,
+      621,
+      310
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0115",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      40,
+      41,
+      42
+    ],
+    "status": "reviewed",
+    "description": "Jack sets his pack in dry grass",
+    "asset": "assets/scene-0115.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      634,
+      7,
+      931,
+      310
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0116",
+    "chapter": 5,
+    "part_id": "B11_Chapter_05_Part_01",
+    "source_paragraphs": [
+      43
+    ],
+    "status": "reviewed",
+    "description": "Something moves beyond the pond",
+    "asset": "assets/scene-0116.webp",
+    "page": "part-05-01.html",
+    "crop": [
+      944,
+      7,
+      1246,
+      310
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0117",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      1,
+      2
+    ],
+    "status": "reviewed",
+    "description": "An elephant enters the pond",
+    "asset": "assets/scene-0117.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      6,
+      322,
+      309,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0118",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      3,
+      4
+    ],
+    "status": "reviewed",
+    "description": "Watching the huge elephant",
+    "asset": "assets/scene-0118.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      322,
+      322,
+      621,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0119",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      5,
+      6,
+      7
+    ],
+    "status": "reviewed",
+    "description": "Jack wants to leave",
+    "asset": "assets/scene-0119.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      11,
+      11,
+      878,
+      878
+    ],
+    "source": "source_images/scenes-0119-0125-revision-v1.png",
+    "revision": "Removed duplicate worn backpack; only one bag on grass",
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0120",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "status": "reviewed",
+    "description": "A spray surprises Jack",
+    "asset": "assets/scene-0120.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      944,
+      322,
+      1246,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0121",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "status": "reviewed",
+    "description": "The elephant showers Annie",
+    "asset": "assets/scene-0121.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      6,
+      633,
+      309,
+      932
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0122",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "status": "reviewed",
+    "description": "The mud washes off Annie",
+    "asset": "assets/scene-0122.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      322,
+      633,
+      621,
+      932
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0123",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      13,
+      14,
+      15
+    ],
+    "status": "reviewed",
+    "description": "Jack takes his turn in the spray",
+    "asset": "assets/scene-0123.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      634,
+      633,
+      931,
+      932
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0124",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      16,
+      17
+    ],
+    "status": "reviewed",
+    "description": "The elephant splashes itself",
+    "asset": "assets/scene-0124.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      944,
+      633,
+      1246,
+      932
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0125",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      18,
+      19
+    ],
+    "status": "reviewed",
+    "description": "Clean and soaking wet",
+    "asset": "assets/scene-0125.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      0,
+      0,
+      1254,
+      1254
+    ],
+    "source": "source_images/scene-0125-revision-final.png",
+    "revision": "Restored clean soaking-wet state after washing and checked single-trunk anatomy",
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0126",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      20,
+      21
+    ],
+    "status": "reviewed",
+    "description": "Jack picks up his pack",
+    "asset": "assets/scene-0126.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      322,
+      943,
+      621,
+      1247
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0127",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      22
+    ],
+    "status": "reviewed",
+    "description": "Jack looks around nervously",
+    "asset": "assets/scene-0127.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      634,
+      943,
+      931,
+      1247
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0128",
+    "chapter": 6,
+    "part_id": "B11_Chapter_06_Part_01",
+    "source_paragraphs": [
+      23,
+      24,
+      25
+    ],
+    "status": "reviewed",
+    "description": "A small gray bird arrives",
+    "asset": "assets/scene-0128.webp",
+    "page": "part-06-01.html",
+    "crop": [
+      944,
+      943,
+      1246,
+      1247
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
   }
 ]
