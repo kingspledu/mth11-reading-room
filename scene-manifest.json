@@ -3077,5 +3077,311 @@
       1239
     ],
     "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0161",
+    "chapter": 7,
+    "part_id": "B11_Chapter_07_Part_02",
+    "source_paragraphs": [
+      19,
+      20
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0161.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      6,
+      5,
+      306,
+      307
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0162",
+    "chapter": 7,
+    "part_id": "B11_Chapter_07_Part_02",
+    "source_paragraphs": [
+      21,
+      22,
+      23
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0162.webp",
+    "page": "part-07-02.html",
+    "crop": [
+      319,
+      5,
+      621,
+      307
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0163",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      1,
+      2,
+      3
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0163.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      632,
+      5,
+      934,
+      307
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0164",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      4
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0164.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      946,
+      5,
+      1249,
+      307
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0165",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      5,
+      6,
+      7
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0165.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      6,
+      321,
+      307,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0166",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      8
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0166.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      319,
+      321,
+      620,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0167",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      9,
+      10
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0167.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      633,
+      321,
+      934,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0168",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      11,
+      12
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0168.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      321,
+      1250,
+      621
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0169",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      13
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0169.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      6,
+      635,
+      307,
+      935
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0170",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      14,
+      15
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0170.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      320,
+      635,
+      621,
+      935
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0171",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      16,
+      17,
+      18
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0171.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      634,
+      635,
+      934,
+      935
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0172",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      19,
+      20,
+      21
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0172.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      635,
+      1250,
+      935
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0173",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      22,
+      23
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0173.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      6,
+      948,
+      307,
+      1251
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0174",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      24,
+      25
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0174.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      320,
+      948,
+      620,
+      1252
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0175",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      26,
+      27
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0175.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      633,
+      948,
+      934,
+      1252
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
+  },
+  {
+    "id": "scene-0176",
+    "chapter": 8,
+    "part_id": "B11_Chapter_08_Part_01",
+    "source_paragraphs": [
+      28,
+      29
+    ],
+    "status": "reviewed",
+    "asset": "assets/scene-0176.webp",
+    "page": "part-08-01.html",
+    "crop": [
+      947,
+      948,
+      1251,
+      1252
+    ],
+    "review": "source order, identity, props, measured gutters, overlay and native samples verified"
   }
 ]
